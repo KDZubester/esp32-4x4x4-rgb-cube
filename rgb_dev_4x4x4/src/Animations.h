@@ -37,7 +37,7 @@ public:
                              //////////////////////////////////////
                              _left_right_layer(0),
                              _right(true),
-                             _left_right_color{{WHITE, MAGENTA, CYAN}},
+                             _left_right_color{{YELLOW, MAGENTA, CYAN}},
                              _left_right_color_index(0),
 
                              //////////////////////////////////////
